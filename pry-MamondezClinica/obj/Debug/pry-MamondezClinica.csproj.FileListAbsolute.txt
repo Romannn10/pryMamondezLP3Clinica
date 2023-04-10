@@ -1,0 +1,12 @@
+D:\Escritorio\pry-MamondezClinica\bin\Debug\pry-MamondezClinica.exe.config
+D:\Escritorio\pry-MamondezClinica\bin\Debug\pry-MamondezClinica.exe
+D:\Escritorio\pry-MamondezClinica\bin\Debug\pry-MamondezClinica.pdb
+D:\Escritorio\pry-MamondezClinica\obj\Debug\pry-MamondezClinica.csproj.AssemblyReference.cache
+D:\Escritorio\pry-MamondezClinica\obj\Debug\pry-MamondezClinica.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pry-MamondezClinica\obj\Debug\pry_MamondezClinica.frmPrincipal.resources
+D:\Escritorio\pry-MamondezClinica\obj\Debug\pry_MamondezClinica.Properties.Resources.resources
+D:\Escritorio\pry-MamondezClinica\obj\Debug\pry-MamondezClinica.csproj.GenerateResource.cache
+D:\Escritorio\pry-MamondezClinica\obj\Debug\pry-MamondezClinica.csproj.CoreCompileInputs.cache
+D:\Escritorio\pry-MamondezClinica\obj\Debug\pry-MamondezClinica.exe
+D:\Escritorio\pry-MamondezClinica\obj\Debug\pry-MamondezClinica.pdb
+D:\Escritorio\pry-MamondezClinica\obj\Debug\pry_MamondezClinica.frm2.resources
